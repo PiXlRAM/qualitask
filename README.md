@@ -27,7 +27,9 @@ The focus of this project was building a clean, modular control system with clea
 ## Project Setup
 
 1. Open the project in **Unreal Engine 5.3+**
-2. Load the main level (if not auto-loaded)
+2. If the main level is not automatically loaded:
+   - Navigate to the **Content Browser → Levels folder**
+   - Open the level named **Level**
 3. Press **Play**
 4. Use **F** to begin controlling the drone
 
